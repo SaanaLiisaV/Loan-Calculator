@@ -1,5 +1,5 @@
 # Loan Calculator
 
-A simple Android investment calculator built with Kotlin and Jetpack Compose.
+A simple Android loan calculator built with Kotlin and Jetpack Compose.
 
 ![Screenshot](images/lainalaskuri.png)
